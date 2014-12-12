@@ -52,7 +52,6 @@
 
     CCNode *_parallaxContainer;
     CCParallaxNode *_parallaxBackground;
-
 }
 
 
